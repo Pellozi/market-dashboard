@@ -1,6 +1,6 @@
 # trabalho2bm
 
-A new Flutter project.
+Foi usado o BLoC Pattern para a construção da arquitetura do projeto. Utilizando também do conceito de streams e reactive ui.
 
 ## Getting Started
 
